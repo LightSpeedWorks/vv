@@ -1,12 +1,4 @@
-vv
-====
-
-unified promise and thunk with callback async library
-
-## Quick Example
-
-```js
-const vv = require('vv');
+const vv = require('../vv');
 
 vv(function *() {
 	// wait examples
@@ -77,4 +69,3 @@ vv(function *() {
 			val => console.log('object1-9', val),
 			err => console.error(err));
 })();
-```

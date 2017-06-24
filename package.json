@@ -1,8 +1,8 @@
 {
   "name": "vv",
-  "version": "0.0.0",
-  "description": "test",
-  "main": "index.js",
+  "version": "0.0.1",
+  "description": "vv - unified promise and thunk with callback async library",
+  "main": "vv.js",
   "dependencies": {},
   "devDependencies": {},
   "keywords": [
